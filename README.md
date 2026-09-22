@@ -218,6 +218,9 @@ python -m pytest tests/test_pipeline.py -v
 python -m src.predict
 ```
 
+### 6. Run Jupyter Analysis Notebook
+Open and run `notebooks/Thamizharasan_AI-Powered_Retail_Sales_Analytics_and_Sales_Prediction.ipynb` in VS Code or JupyterLab.
+
 ---
 
 ## Example Prediction

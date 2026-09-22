@@ -89,7 +89,7 @@ Department, Store Size, Store ID, WeekOfYear, and CPI were the most important fe
 
 | Deliverable | Location |
 |-------------|----------|
-| Analysis Notebook | `notebooks/retail_sales_analysis.ipynb` |
+| Analysis Notebook | `notebooks/Thamizharasan_AI-Powered_Retail_Sales_Analytics_and_Sales_Prediction.ipynb` |
 | Trained Model | `models/final_model.pkl` |
 | Test Predictions | `outputs/predictions/Walmart_Sales_Predictions.csv` |
 | Submission File | `outputs/predictions/walmart_submission.csv` |
